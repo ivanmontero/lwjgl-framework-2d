@@ -1,0 +1,21 @@
+[INFO] Display mode set to: 1280 x 720 x 0 @0Hz fullscreen=false
+[INFO] Window successfully created
+[INFO] Window FOV set to: 2560 x 1440
+[INFO] OpenGL successfully initialized
+[INFO] Font "8bit" successfully loaded from: res/fonts/8BitFont.ttf
+[INFO] Font "text" successfully loaded from AWT: SansSerif.plain
+Sun Jan 31 21:35:32 PST 2016 INFO:Use Java PNG Loader = true
+[INFO] Texture "crosshair" successfully loaded from: res/textures/crosshair.png
+[INFO] Texture "bread" successfully loaded from: res/textures/bread.jpg
+[INFO] Texture #0 from texture set "zombieLeft" successfully loaded from: res/textures/walk/CharZombie01W0005.png
+[INFO] Texture #1 from texture set "zombieLeft" successfully loaded from: res/textures/walk/CharZombie01W0006.png
+[INFO] Texture #2 from texture set "zombieLeft" successfully loaded from: res/textures/walk/CharZombie01W0007.png
+[INFO] Texture #3 from texture set "zombieLeft" successfully loaded from: res/textures/walk/CharZombie01W0008.png
+[INFO] Texture #0 from texture set "ship" successfully loaded from: res/textures/ship/ship.png
+[INFO] Texture #1 from texture set "ship" successfully loaded from: res/textures/ship/ship_fire.png
+[INFO] Scene SPRITE_TEST successfully loaded
+[INFO] Scene PHYSICS_TEST successfully loaded
+[INFO] All scenes and resources successfully loaded
+[INFO] Entering main game loop
+[INFO] Settings successfully saved to: settings.dat
+[INFO] Exiting
